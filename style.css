@@ -1,0 +1,5 @@
+.slide {
+  height: 400px;
+  max-width: 400px;
+  transition: max-width 500ms ease-in;
+}
